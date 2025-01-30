@@ -1,0 +1,136 @@
+
+HTML
+
+HTML and VSCode - getting started - https://youtu.be/XmLOwJHFHf0?si=gnXVdFfewlWzG6Kx
+Core structure of HTML and Meta tags -https://youtu.be/v-xdY6VFcio?si=xh-JoB6JG6hsixXw
+Heading, paragraph and reading docs - https://youtu.be/CetKwpx3t6g?si=2CeQmHiskqnER0x7
+Formatting style and Global attributes-https://youtu.be/QEoU5Kaz9lQ?si=kSbXuz0JtuSTo3UR
+Value of colors and CSS format - https://youtu.be/AdmLG2xhdvM?si=BuxeAotaAHfaLjPN
+Links and Images with Map - https://youtu.be/T_ca5aO3WN0?si=OAfB4RFpJ83a50oP
+Tables in HTML-https://youtu.be/d2Tb9hd9pHM?si=H348mOjJV8Jm-6iX
+List, inline and Block element -https://youtu.be/MiJrcI4LXMA?si=JxT-HtLPJ6if-g5G
+Class ID and iframe -https://youtu.be/I7LrS1z_WNA?si=9cTlkkNVximf4K1u
+Head Tag in HTML -https://youtu.be/-wMbf3qVNsc?si=-mDUMVqxqEPADHn5
+HTML semantics-https://youtu.be/DSRMCZwM3YE?si=srrwLcq6lKJxt-ja
+HTML forms and forms attributes-https://youtu.be/LhWQlBdqaeM?si=t2ABWIjrt9MnL2JP
+Types of input forms -https://youtu.be/YR2fepUAp5c?si=Wwu8TPN5S5qfaTJQ
+HTML MEDIA and API -https://youtu.be/E_AExAmpq_o?si=uxH5AGq29tLu92wO
+HTML series over-https://youtu.be/pYSXmQCrxlw?si=h66YKZxcxgzkba_S
+
+-------------------------------------------------------------------------
+CSS
+Is CSS required -https://youtu.be/4-Y0r7aIZJQ?si=P7Snq-B__c6qaFVk
+Tailwind CSS Tutorial-https://youtu.be/_9mTJ84uL1Q?si=lXZuyYQ5vYpUfctF
+-------------------------------------------------------------------------
+Javascript
+Javascript for beginners -https://youtu.be/Hr5iLG7sUa0?si=vLpyUqr5k0CqI02a
+Setting up environment in local machine for Javascript -https://youtu.be/cvoLc3deAdQ?si=zBdjZt0ONZgfgu40
+Save and work on Github for Javascript -https://youtu.be/-GoKoR6aLcY?si=hBdZH3HI1RAIW2Sk
+Let, const and var in Javascript-https://youtu.be/yY0bKZNYmJs?si=Y63Za2ZKjTbzpwuN
+Datatypes and ECMA standards -https://youtu.be/-9knnv97wSc?si=rYHSglE0VYpJiC0L
+Datatype conversion confusion -https://youtu.be/X7hDBhd_L5U?si=XBjVJldEwlHg5XAk
+Why string to number conversion is confusing -https://youtu.be/N9el4APFtAo?si=8oV__fzqK_gl9UyH
+Comparison of datatypes in javascript -https://youtu.be/giP2uXMlv4c?si=HoW82QWg4nNhZmaG
+Data types of javascript summary -https://youtu.be/suMvZWjjKbo?si=RLhc2wpq3-wl7Zg1
+Stack and Heap memory in javascript-https://youtu.be/7gwc-1czolw?si=oUTVt6PPFoqp4BAh
+Strings in Javascript-https://youtu.be/fozwNnFunlo?si=zi4m7Hv0imuXRY8J
+Number and Maths in Javascript-https://youtu.be/_KqpeDc47Ro?si=ydTsBcuF4IEBmQ2D
+Date and time in depth in javascript-https://youtu.be/tGLCuoumaGY?si=sCnO9pysfP4c6neW
+Array in Javascript-https://youtu.be/cejBux2gtEE?si=6qWmN36rjvX5dS-g
+Array part 2 in Javascript -https://youtu.be/m6azhgyCi-k?si=h5dVaDCN4y5MVpx3
+Objects in depth in javascript part 1 -https://youtu.be/vVYOHmqQDCU?si=Bu-C0ZGlC4UugRMv
+Objects in Javascript part 2-https://youtu.be/4lb2pXWWXJI?si=YxrbF_WxOQGI7HPL
+Object de-structure and JSON API intro-https://youtu.be/AViTh83k-IE?si=wSM_N0QXIHT4NaKM
+Functions and parameter in javascript -https://youtu.be/Bn56WahG_t0?si=_mxk9a3qDuTI396G
+Functions with objects and array in javascript-https://youtu.be/t7ZHPhgdA4U?si=pJ00_Y6H4dBJgnCj
+Global and local scope in javascript-https://youtu.be/cHHU0jXfjKY?si=IGqPngPgHFo_c1nt
+Scope level and mini hoisting in javascript -https://youtu.be/eWwge2YpHhc?si=_4baxOWSQDDBxAS0
+THIS and arrow function in javascript -https://youtu.be/9ksqBa8_txM?si=tlsEO9iyGiUCy1Ej
+Immediately Invoked Function Expressions IIFE-https://youtu.be/GAIbn16Iytc?si=S26ogP3XO-Z_f-BF
+How does javascript execute code + call stack-https://youtu.be/ByhtOgF6uYM?si=rt9J9Y8xUusayZzv
+Control flow in javascript in 1 shot-https://youtu.be/0P_YvC6Gg0c?si=-aLCqr584d8FrOK6
+For loop with break and continue in javascript -https://youtu.be/Y1cpFsXrEgY?si=bSdmLfj0KK1DyURq
+While and do while loop in Javascript-https://youtu.be/w3Q55-l47P0?si=h2VxzSneCzwyqp5E
+High Order Array loops-https://youtu.be/M0YImBHQsWU?si=I6Ij13y027cc1NRH
+Filter map and reduce in javascript-https://youtu.be/9MfwYoWKKVE?si=C2TADk3padz_ABDz
+DOM introduction in javascript-https://youtu.be/DcjNkHtDj8A?si=RXYfmpa3mFSaoesx
+All DOM selectors NodeList and HTMLCollection-https://youtu.be/Ab6K57WjWTE?si=ILhzYv77RYjniSje
+How to create a new element in DOM-https://youtu.be/xAvTgCsCHLs?si=5fybOkKdkdn2Xw_V
+Edit and remove elements in DOM-https://youtu.be/VQlY-X_eeTE?si=iCPKrs3PSQJoyiWm
+Lets build 4 javascript projects for beginners-https://youtu.be/EGqHVjU-fas?si=qZ8g5ElViGRI9UDP
+Events in Javascript -https://youtu.be/_ALUMTa8BAE?si=wbi_X8KlacdwYstg
+Async Javascript fundamentals -https://youtu.be/zgt5oTD3rRc?si=6y7nwJSTkq6jhPU_
+2 projects with Async JS-https://youtu.be/efrW5-IYoCU?si=I-D4aRv8wiawe0Oj
+API request and V8 engine-https://youtu.be/pDPAcYdSse8?si=r34yCr5Jn935QMte
+Promise in javascript-https://youtu.be/NJwRQgsu1Q8?si=s0y-2XRrgvyrjLeD
+Now you know fetch in javascript-https://youtu.be/Rive84an6Lc?si=d4wQWsjb38nkRts2
+Object Oriented in Javascript-https://youtu.be/pN-Qmv4zBcI?si=exw9F6DZQMUqcKmT
+Magic of Prototype in javascript-https://youtu.be/uMI5cNeHTOc?si=YRLLCeNoQtu12Ic0
+Call and this in javascript -https://youtu.be/-owpuf4lbyU?si=NFmdrePgZZNLd5Fi
+Class constructor and static -https://youtu.be/u6mVHkMpoMk?si=aW8zdnKI9SFSBPEX
+Bind in javascript-https://youtu.be/75dMiOY_4ac?si=rfx0MXaXEAtnlBNT
+Now you know Objects in Javascript-https://youtu.be/jss2rL9kv6s?si=6xoBNkgCYj-wNiEM
+Getter Setter and Stack Overflow-https://youtu.be/t6vLhF-iSxQ?si=F7ONR5ZOtSnTaG-z
+Lexical scoping and Closure-https://youtu.be/VaH09NXQZ58?si=OOlQvDUmxk7BdtiG
+Javascript ends with a story-https://youtu.be/z9PINyinqwo?si=FmDjb8mZsO0XEW7X
+------------------------------------------------------------------------------
+React
+
+React JS roadmap-https://youtu.be/vz1RlUyrc3w?si=Q5HvaSzd_4nVN8KB
+Create react projects-https://youtu.be/k3KqQvywToE?si=NAf1TRIeFycWJru2
+Understand the react flow and structure-https://youtu.be/yNbnA5pryMg?si=jYHcZ9PSrqQjTDn8
+Create your own react library and JSX-https://youtu.be/kAOuj6o7Kxs?si=qdwS-Cv90MaIIbqc
+Why you need hooks and project-https://youtu.be/lI7IIOWM0Mo?si=SSZz4C9-AUztEqHB
+ Virtual DOM, Fibre and reconciliation-https://youtu.be/MPCVGFvgVEQ?si=DLiA8NbvMsmV_D_u
+ Tailwind and Props in reactjs-https://youtu.be/bB6707XzCNc?si=_flRVPPvO0ryClxr
+ A react interview question on counter-https://youtu.be/tOYkV6Yhrhs?si=Ann9gc5epJdf0Rgk
+ Building a react project -https://youtu.be/_lJ3KNMue3w?si=DTHtDpn8jfyUPWAR
+ useEffect, useRef and useCallback with 1 project-https://youtu.be/Lt4vy8hfc-s?si=OkKDEJmr-yTwf0jP
+ Custom hooks in react and currency Project-https://youtu.be/AFDYnd-XPa8?si=HcC5cEfNzF0I15Kr
+ React router crash course-https://youtu.be/VJov5QWEKE4?si=CVjR7lD95T49YTt8
+ Context API crash course with 2 projects-https://youtu.be/JQVBGtZMqgU?si=S_ftriBiDxR8FubV
+ Context api with local storage-https://youtu.be/6KQeopPE36I?si=rIO-4HVkIUBPvBxf
+ Redux toolkit crash course-https://youtu.be/1i04-A7kfFI?si=OzX3pPrgP6mOszln
+ Our mega project in React-https://youtu.be/P-WHzz2M5aU?si=_Vk5o0pNjYyuFI5O
+ Appwrite backend for react project-https://youtu.be/zLWif1pFYJg?si=N8T80EuapDvzD5XD
+ ENV and Appwrite in React project-https://youtu.be/4_JlIr8yry0?si=MryFXtw1aMkrQ8yJ
+ Build authentication service with appwrite-https://youtu.be/0Py5cGGW2lE?si=EwZ5CkiC5IPIT9dj
+ Appwrite database, file upload and custom queries-https://youtu.be/lzx52HnWh4Y?si=2WwpOKlAc42BNlKq
+ How to configure redux toolkit in big projects-https://youtu.be/8QGKg_W5sDQ?si=__uWYCjNPsAWVY2z
+ Production grade react components-https://youtu.be/BSaYsHVpaK0?si=80o8n1dvNV46H9Ku
+ How to use React hook form in production-https://youtu.be/lfMyCuB6xfc?si=xi0q-VDPORcWrKBb
+ Adding form and slug values-https://youtu.be/-6LvNku2nJE?si=v5iaW2JODpumKs7y
+ Building pages -https://youtu.be/rC644qOZUro?si=fwZrZI8ei0BFSRDC
+ CORS and debugging in React Project-https://youtu.be/Od4rQCU41s4?si=Q5EJDs55YZjcPxV4
+ How to deploy react app to production-https://youtu.be/dg2Gw1HSlpQ?si=gIWQOG_v3y4Iu8mL
+ Assignments for your react course-https://youtu.be/KqGze7HCTIA?si=RQo5Z1LE-DOVRrFC
+ React series ends here-https://youtu.be/3o4qc9WRtWE?si=g536qnwFyGZB982L
+
+
+------------------------------------------------------------------------------
+Backend
+Javascript Backend Roadmap-https://youtu.be/EH3vGeqeIAo?si=RICOeMyEhq8CouC-
+How to deploy backend code in production-https://youtu.be/pOV4EjUtl70?si=KcQ7C6tmfzj9_Pqg
+How to connect frontend and backend in javascript-https://youtu.be/fFHyqhmnVfs?si=DhTmasGEhJNMlzAI
+Taking backend to next level-https://youtu.be/10hRlpUNeNA?si=170-E4TmFTj4CMEa
+Data modelling for backend with mongoose-https://youtu.be/VbGl3msgce8?si=Rphqo6NPXECu9PQo
+Ecommerce and Hospital management Data modelling-https://youtu.be/lA_mNpddN5U?si=imOvO4IZgudmizo6
+How to setup a professional backend project-https://youtu.be/9B4CvtzXRpc?si=ScZ0U4f8op8fiJay
+How to connect database in MERN with debugging-https://youtu.be/w4z8Py-UoNk?si=Nl81mQnzy2Obp3w9
+Custom api response and error handling-https://youtu.be/S5EpsMjel-M?si=p-16B_AwkdXdLqJs
+User and video model with hooks and JWT-https://youtu.be/eWnZVUXMq8k?si=wBB8I2iNafcjbA9f
+How to upload file in backend-https://youtu.be/6KPXn2Ha0cM?si=8W329xx-_5dELlCy
+HTTP crash course-https://youtu.be/qgZiUvV41TI?si=wQgzrnEmTaWChWRy
+Complete guide for router and controller with debugging-https://youtu.be/HqcGLJSORaA?si=uhcqurImKoS3jwoM
+Logic building and Register controller-https://youtu.be/VKXnSwNm_lE?si=GTjKOmbTVMHKPRLw
+How to use postman for backend-https://youtu.be/_u-WgSN5ymU?si=5r0gRrq1YSxFInA9
+Access Refresh Token, Middleware and cookies in Backend-https://youtu.be/7DVpag3cO0g?si=eCo86KfyndWMwfbI
+Access token and refresh token in Backend-https://youtu.be/L2_gIrDxCes?si=5QLnZXGvu9x8uG43
+Writing update controllers for user-https://youtu.be/9azRerL6CZc?si=jqZH7d0SZeiB8laU
+Understand the subscription Schema-https://youtu.be/4_Ge2QEcT8k?si=XnfHT5yk5MM7ZSqR
+Learn Mongodb aggregation pipelines-https://youtu.be/fDTf1mk-jQg?si=9xkyNKC7vZH1WNbr
+How to write sub pipelines and routes-https://youtu.be/qNnR7cuVliI?si=hE3LWuNFwTBQtQFy
+Summary of our Backend Series-https://youtu.be/VUgl3i8DdW4?si=SWZluLhYmX2FvmQ0
+MongoDB models for like playlist and tweet-https://youtu.be/-5yWyE4AiVk?si=2kBSdVhDnhgoDI6J
+Backend series ends here -https://youtu.be/Uc3Iq41npyI?si=DFSYBS-aCmrLfsL-
+--------------------------------------------------------------------------

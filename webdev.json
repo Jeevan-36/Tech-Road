@@ -1,0 +1,1093 @@
+{
+  "HTML": [
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "HTML and VSCode - getting started",
+          "link": "https://youtu.be/XmLOwJHFHf0?si=gnXVdFfewlWzG6Kx",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "Core structure of HTML and Meta tags",
+          "link": "https://youtu.be/v-xdY6VFcio?si=xh-JoB6JG6hsixXw",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "Heading, paragraph and reading docs",
+          "link": "https://youtu.be/CetKwpx3t6g?si=2CeQmHiskqnER0x7",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "Formatting style and Global attributes",
+          "link": "https://youtu.be/QEoU5Kaz9lQ?si=kSbXuz0JtuSTo3UR",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "Value of colors and CSS format",
+          "link": "https://youtu.be/AdmLG2xhdvM?si=BuxeAotaAHfaLjPN",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "Links and Images with Map",
+          "link": "https://youtu.be/T_ca5aO3WN0?si=OAfB4RFpJ83a50oP",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "Tables in HTML",
+          "link": "https://youtu.be/d2Tb9hd9pHM?si=H348mOjJV8Jm-6iX",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "List, inline and Block element",
+          "link": "https://youtu.be/MiJrcI4LXMA?si=JxT-HtLPJ6if-g5G",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "Class ID and iframe",
+          "link": "https://youtu.be/I7LrS1z_WNA?si=9cTlkkNVximf4K1u",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "Head Tag in HTML",
+          "link": "https://youtu.be/-wMbf3qVNsc?si=-mDUMVqxqEPADHn5",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "HTML semantics",
+          "link": "https://youtu.be/DSRMCZwM3YE?si=srrwLcq6lKJxt-ja",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "HTML forms and forms attributes",
+          "link": "https://youtu.be/LhWQlBdqaeM?si=t2ABWIjrt9MnL2JP",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "Types of input forms",
+          "link": "https://youtu.be/YR2fepUAp5c?si=Wwu8TPN5S5qfaTJQ",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "HTML MEDIA and API",
+          "link": "https://youtu.be/E_AExAmpq_o?si=uxH5AGq29tLu92wO",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "HTML",
+          "questionName": "HTML series over",
+          "link": "https://youtu.be/pYSXmQCrxlw?si=h66YKZxcxgzkba_S",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      }
+  ],
+  "CSS": [
+      {
+          "technology": "WEBDEV",
+          "title": "CSS",
+          "questionName": "Is CSS required",
+          "link": "https://youtu.be/4-Y0r7aIZJQ?si=P7Snq-B__c6qaFVk",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "CSS",
+          "questionName": "Tailwind CSS Tutorial",
+          "link": "https://youtu.be/_9mTJ84uL1Q?si=lXZuyYQ5vYpUfctF",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      }
+  ],
+  "JavaScript": [
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Javascript for beginners",
+          "link": "https://youtu.be/Hr5iLG7sUa0?si=vLpyUqr5k0CqI02a",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Setting up environment in local machine for Javascript",
+          "link": "https://youtu.be/cvoLc3deAdQ?si=zBdjZt0ONZgfgu40",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Save and work on Github for Javascript",
+          "link": "https://youtu.be/-GoKoR6aLcY?si=hBdZH3HI1RAIW2Sk",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Let, const and var in Javascript",
+          "link": "https://youtu.be/yY0bKZNYmJs?si=Y63Za2ZKjTbzpwuN",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Datatypes and ECMA standards",
+          "link": "https://youtu.be/-9knnv97wSc?si=rYHSglE0VYpJiC0L",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Datatype conversion confusion",
+          "link": "https://youtu.be/X7hDBhd_L5U?si=XBjVJldEwlHg5XAk",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Why string to number conversion is confusing",
+          "link": "https://youtu.be/N9el4APFtAo?si=8oV__fzqK_gl9UyH",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Comparison of datatypes in javascript",
+          "link": "https://youtu.be/giP2uXMlv4c?si=HoW82QWg4nNhZmaG",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Data types of javascript summary",
+          "link": "https://youtu.be/suMvZWjjKbo?si=RLhc2wpq3-wl7Zg1",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Stack and Heap memory in javascript",
+          "link": "https://youtu.be/7gwc-1czolw?si=oUTVt6PPFoqp4BAh",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Strings in Javascript",
+          "link": "https://youtu.be/fozwNnFunlo?si=zi4m7Hv0imuXRY8J",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Number and Maths in Javascript",
+          "link": "https://youtu.be/_KqpeDc47Ro?si=ydTsBcuF4IEBmQ2D",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Date and time in depth in javascript",
+          "link": "https://youtu.be/tGLCuoumaGY?si=sCnO9pysfP4c6neW",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Array in Javascript",
+          "link": "https://youtu.be/cejBux2gtEE?si=6qWmN36rjvX5dS-g",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Array part 2 in Javascript",
+          "link": "https://youtu.be/m6azhgyCi-k?si=h5dVaDCN4y5MVpx3",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Objects in depth in javascript part 1",
+          "link": "https://youtu.be/vVYOHmqQDCU?si=Bu-C0ZGlC4UugRMv",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Objects in Javascript part 2",
+          "link": "https://youtu.be/4lb2pXWWXJI?si=YxrbF_WxOQGI7HPL",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Object de-structure and JSON API intro",
+          "link": "https://youtu.be/AViTh83k-IE?si=wSM_N0QXIHT4NaKM",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Functions and parameter in javascript",
+          "link": "https://youtu.be/Bn56WahG_t0?si=_mxk9a3qDuTI396G",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Functions with objects and array in javascript",
+          "link": "https://youtu.be/t7ZHPhgdA4U?si=pJ00_Y6H4dBJgnCj",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Global and local scope in javascript",
+          "link": "https://youtu.be/cHHU0jXfjKY?si=IGqPngPgHFo_c1nt",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Scope level and mini hoisting in javascript",
+          "link": "https://youtu.be/eWwge2YpHhc?si=_4baxOWSQDDBxAS0",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "THIS and arrow function in javascript",
+          "link": "https://youtu.be/9ksqBa8_txM?si=tlsEO9iyGiUCy1Ej",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Immediately Invoked Function Expressions (IIFE)",
+          "link": "https://youtu.be/GAIbn16Iytc?si=S26ogP3XO-Z_f-BF",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "How does javascript execute code + call stack",
+          "link": "https://youtu.be/ByhtOgF6uYM?si=rt9J9Y8xUusayZzv",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Control flow in javascript in 1 shot",
+          "link": "https://youtu.be/0P_YvC6Gg0c?si=-aLCqr584d8FrOK6",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "For loop with break and continue in javascript",
+          "link": "https://youtu.be/Y1cpFsXrEgY?si=bSdmLfj0KK1DyURq",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "While and do while loop in Javascript",
+          "link": "https://youtu.be/w3Q55-l47P0?si=h2VxzSneCzwyqp5E",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "High Order Array loops",
+          "link": "https://youtu.be/M0YImBHQsWU?si=I6Ij13y027cc1NRH",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Filter map and reduce in javascript",
+          "link": "https://youtu.be/9MfwYoWKKVE?si=C2TADk3padz_ABDz",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "DOM introduction in javascript",
+          "link": "https://youtu.be/DcjNkHtDj8A?si=RXYfmpa3mFSaoesx",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "All DOM selectors NodeList and HTMLCollection",
+          "link": "https://youtu.be/Ab6K57WjWTE?si=ILhzYv77RYjniSje",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "How to create a new element in DOM",
+          "link": "https://youtu.be/xAvTgCsCHLs?si=5fybOkKdkdn2Xw_V",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Edit and remove elements in DOM",
+          "link": "https://youtu.be/VQlY-X_eeTE?si=iCPKrs3PSQJoyiWm",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Lets build 4 javascript projects for beginners",
+          "link": "https://youtu.be/EGqHVjU-fas?si=qZ8g5ElViGRI9UDP",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Events in Javascript",
+          "link": "https://youtu.be/_ALUMTa8BAE?si=wbi_X8KlacdwYstg",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Async Javascript fundamentals",
+          "link": "https://youtu.be/zgt5oTD3rRc?si=6y7nwJSTkq6jhPU_",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "2 projects with Async JS",
+          "link": "https://youtu.be/efrW5-IYoCU?si=I-D4aRv8wiawe0Oj",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "API request and V8 engine",
+          "link": "https://youtu.be/pDPAcYdSse8?si=r34yCr5Jn935QMte",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Promise in javascript",
+          "link": "https://youtu.be/NJwRQgsu1Q8?si=s0y-2XRrgvyrjLeD",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Now you know fetch in javascript",
+          "link": "https://youtu.be/Rive84an6Lc?si=d4wQWsjb38nkRts2",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Object Oriented in Javascript",
+          "link": "https://youtu.be/pN-Qmv4zBcI?si=exw9F6DZQMUqcKmT",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Magic of Prototype in javascript",
+          "link": "https://youtu.be/uMI5cNeHTOc?si=YRLLCeNoQtu12Ic0",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Call and this in javascript",
+          "link": "https://youtu.be/-owpuf4lbyU?si=NFmdrePgZZNLd5Fi",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Class constructor and static",
+          "link": "https://youtu.be/u6mVHkMpoMk?si=aW8zdnKI9SFSBPEX",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Bind in javascript",
+          "link": "https://youtu.be/75dMiOY_4ac?si=rfx0MXaXEAtnlBNT",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Now you know Objects in Javascript",
+          "link": "https://youtu.be/jss2rL9kv6s?si=6xoBNkgCYj-wNiEM",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Getter Setter and Stack Overflow",
+          "link": "https://youtu.be/t6vLhF-iSxQ?si=F7ONR5ZOtSnTaG-z",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Lexical scoping and Closure",
+          "link": "https://youtu.be/VaH09NXQZ58?si=OOlQvDUmxk7BdtiG",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "JavaScript",
+          "questionName": "Javascript ends with a story",
+          "link": "https://youtu.be/z9PINyinqwo?si=FmDjb8mZsO0XEW7X",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      }
+  ],
+  "React": [
+    {
+        "technology": "WEBDEV",
+        "title": "React",
+        "questionName": "React JS Roadmap Introduction",
+        "link": "https://youtu.be/vz1RlUyrc3w?si=Q5HvaSzd_4nVN8KB",
+        "notes": "Add your notes",
+        "completed": false,
+        "bookmarked": false
+    },
+    {
+        "technology": "WEBDEV",
+        "title": "React",
+        "questionName": "Creating React Projects",
+        "link": "https://youtu.be/k3KqQvywToE?si=NAf1TRIeFycWJru2",
+        "notes": "Add your notes",
+        "completed": false,
+        "bookmarked": false
+    },
+    {
+        "technology": "WEBDEV",
+        "title": "React",
+        "questionName": "React Flow and Structure",
+        "link": "https://youtu.be/yNbnA5pryMg?si=jYHcZ9PSrqQjTDn8",
+        "notes": "Add your notes",
+        "completed": false,
+        "bookmarked": false
+    },
+    {
+        "technology": "WEBDEV",
+        "title": "React",
+        "questionName": "React Library and JSX",
+        "link": "https://youtu.be/kAOuj6o7Kxs?si=qdwS-Cv90MaIIbqc",
+        "notes": "Add your notes",
+        "completed": false,
+        "bookmarked": false
+    },
+    {
+        "technology": "WEBDEV",
+        "title": "React",
+        "questionName": "React Hooks and Project",
+        "link": "https://youtu.be/lI7IIOWM0Mo?si=SSZz4C9-AUztEqHB",
+        "notes": "Add your notes",
+        "completed": false,
+        "bookmarked": false
+    },
+    {
+        "technology": "WEBDEV",
+        "title": "React",
+        "questionName": "Virtual DOM and Reconciliation",
+        "link": "https://youtu.be/MPCVGFvgVEQ?si=DLiA8NbvMsmV_D_u",
+        "notes": "Add your notes",
+        "completed": false,
+        "bookmarked": false
+    },
+    {
+        "technology": "WEBDEV",
+        "title": "React",
+        "questionName": "Tailwind and Props",
+        "link": "https://youtu.be/bB6707XzCNc?si=_flRVPPvO0ryClxr",
+        "notes": "Add your notes",
+        "completed": false,
+        "bookmarked": false
+    },
+    {
+        "technology": "WEBDEV",
+        "title": "React",
+        "questionName": "React Interview Question - Counter",
+        "link": "https://youtu.be/tOYkV6Yhrhs?si=Ann9gc5epJdf0Rgk",
+        "notes": "Add your notes",
+        "completed": false,
+        "bookmarked": false
+    },
+    {
+      "technology": "WEBDEV",
+      "title": "React",
+      "questionName": "Building a React Project",
+      "link": "https://youtu.be/_lJ3KNMue3w?si=DTHtDpn8jfyUPWAR",
+      "notes": "Add your notes",
+      "completed": false,
+      "bookmarked": false
+  },
+  {
+      "technology": "WEBDEV",
+      "title": "React",
+      "questionName": "useEffect, useRef and useCallback with 1 Project",
+      "link": "https://youtu.be/Lt4vy8hfc-s?si=OkKDEJmr-yTwf0jP",
+      "notes": "Add your notes",
+      "completed": false,
+      "bookmarked": false
+  },
+  {
+      "technology": "WEBDEV",
+      "title": "React",
+      "questionName": "Custom Hooks in React and Currency Project",
+      "link": "https://youtu.be/AFDYnd-XPa8?si=HcC5cEfNzF0I15Kr",
+      "notes": "Add your notes",
+      "completed": false,
+      "bookmarked": false
+  },
+  {
+      "technology": "WEBDEV",
+      "title": "React",
+      "questionName": "React Router Crash Course",
+      "link": "https://youtu.be/VJov5QWEKE4?si=CVjR7lD95T49YTt8",
+      "notes": "Add your notes",
+      "completed": false,
+      "bookmarked": false
+  },
+  {
+      "technology": "WEBDEV",
+      "title": "React",
+      "questionName": "Context API Crash Course with 2 Projects",
+      "link": "https://youtu.be/JQVBGtZMqgU?si=S_ftriBiDxR8FubV",
+      "notes": "Add your notes",
+      "completed": false,
+      "bookmarked": false
+  },
+  {
+      "technology": "WEBDEV",
+      "title": "React",
+      "questionName": "Context API with Local Storage",
+      "link": "https://youtu.be/6KQeopPE36I?si=rIO-4HVkIUBPvBxf",
+      "notes": "Add your notes",
+      "completed": false,
+      "bookmarked": false
+  },
+  {
+      "technology": "WEBDEV",
+      "title": "React",
+      "questionName": "Redux Toolkit Crash Course",
+      "link": "https://youtu.be/1i04-A7kfFI?si=OzX3pPrgP6mOszln",
+      "notes": "Add your notes",
+      "completed": false,
+      "bookmarked": false
+  },
+  {
+      "technology": "WEBDEV",
+      "title": "React",
+      "questionName": "Our Mega Project in React",
+      "link": "https://youtu.be/P-WHzz2M5aU?si=_Vk5o0pNjYyuFI5O",
+      "notes": "Add your notes",
+      "completed": false,
+      "bookmarked": false
+  },
+  {
+    "technology": "WEBDEV",
+    "title": "React",
+    "questionName": "Appwrite Backend for React Project",
+    "link": "https://youtu.be/zLWif1pFYJg?si=N8T80EuapDvzD5XD",
+    "notes": "Add your notes",
+    "completed": false,
+    "bookmarked": false
+},
+{
+    "technology": "WEBDEV",
+    "title": "React",
+    "questionName": "ENV and Appwrite in React Project",
+    "link": "https://youtu.be/4_JlIr8yry0?si=MryFXtw1aMkrQ8yJ",
+    "notes": "Add your notes",
+    "completed": false,
+    "bookmarked": false
+},
+{
+    "technology": "WEBDEV",
+    "title": "React",
+    "questionName": "Build Authentication Service with Appwrite",
+    "link": "https://youtu.be/0Py5cGGW2lE?si=EwZ5CkiC5IPIT9dj",
+    "notes": "Add your notes",
+    "completed": false,
+    "bookmarked": false
+},
+{
+    "technology": "WEBDEV",
+    "title": "React",
+    "questionName": "Appwrite Database, File Upload and Custom Queries",
+    "link": "https://youtu.be/lzx52HnWh4Y?si=2WwpOKlAc42BNlKq",
+    "notes": "Add your notes",
+    "completed": false,
+    "bookmarked": false
+},
+{
+    "technology": "WEBDEV",
+    "title": "React",
+    "questionName": "How to Configure Redux Toolkit in Big Projects",
+    "link": "https://youtu.be/8QGKg_W5sDQ?si=__uWYCjNPsAWVY2z",
+    "notes": "Add your notes",
+    "completed": false,
+    "bookmarked": false
+},
+{
+    "technology": "WEBDEV",
+    "title": "React",
+    "questionName": "Production Grade React Components",
+    "link": "https://youtu.be/BSaYsHVpaK0?si=80o8n1dvNV46H9Ku",
+    "notes": "Add your notes",
+    "completed": false,
+    "bookmarked": false
+},
+{
+    "technology": "WEBDEV",
+    "title": "React",
+    "questionName": "How to Use React Hook Form in Production",
+    "link": "https://youtu.be/lfMyCuB6xfc?si=xi0q-VDPORcWrKBb",
+    "notes": "Add your notes",
+    "completed": false,
+    "bookmarked": false
+},
+{
+    "technology": "WEBDEV",
+    "title": "React",
+    "questionName": "Adding Form and Slug Values",
+    "link": "https://youtu.be/-6LvNku2nJE?si=v5iaW2JODpumKs7y",
+    "notes": "Add your notes",
+    "completed": false,
+    "bookmarked": false
+},
+{
+  "technology": "WEBDEV",
+  "title": "React",
+  "questionName": "Building Pages",
+  "link": "https://youtu.be/rC644qOZUro?si=fwZrZI8ei0BFSRDC",
+  "notes": "Add your notes",
+  "completed": false,
+  "bookmarked": false
+},
+{
+  "technology": "WEBDEV",
+  "title": "React",
+  "questionName": "CORS and Debugging in React Project",
+  "link": "https://youtu.be/Od4rQCU41s4?si=Q5EJDs55YZjcPxV4",
+  "notes": "Add your notes",
+  "completed": false,
+  "bookmarked": false
+},
+{
+  "technology": "WEBDEV",
+  "title": "React",
+  "questionName": "How to Deploy React App to Production",
+  "link": "https://youtu.be/dg2Gw1HSlpQ?si=gIWQOG_v3y4Iu8mL",
+  "notes": "Add your notes",
+  "completed": false,
+  "bookmarked": false
+},
+{
+  "technology": "WEBDEV",
+  "title": "React",
+  "questionName": "Assignments for Your React Course",
+  "link": "https://youtu.be/KqGze7HCTIA?si=RQo5Z1LE-DOVRrFC",
+  "notes": "Add your notes",
+  "completed": false,
+  "bookmarked": false
+},
+{
+  "technology": "WEBDEV",
+  "title": "React",
+  "questionName": "React Series Ends Here",
+  "link": "https://youtu.be/3o4qc9WRtWE?si=g536qnwFyGZB982L",
+  "notes": "Add your notes",
+  "completed": false,
+  "bookmarked": false
+}
+]
+,
+  "BackEnd": [
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Javascript Backend Roadmap",
+          "link": "https://youtu.be/EH3vGeqeIAo?si=RICOeMyEhq8CouC-",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "How to deploy backend code in production",
+          "link": "https://youtu.be/pOV4EjUtl70?si=KcQ7C6tmfzj9_Pqg",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "How to connect frontend and backend in javascript",
+          "link": "https://youtu.be/fFHyqhmnVfs?si=DhTmasGEhJNMlzAI",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Taking backend to next level",
+          "link": "https://youtu.be/10hRlpUNeNA?si=170-E4TmFTj4CMEa",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Data modelling for backend with mongoose",
+          "link": "https://youtu.be/VbGl3msgce8?si=Rphqo6NPXECu9PQo",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Ecommerce and Hospital management Data modelling",
+          "link": "https://youtu.be/lA_mNpddN5U?si=imOvO4IZgudmizo6",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "How to setup a professional backend project",
+          "link": "https://youtu.be/9B4CvtzXRpc?si=ScZ0U4f8op8fiJay",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "How to connect database in MERN with debugging",
+          "link": "https://youtu.be/w4z8Py-UoNk?si=Nl81mQnzy2Obp3w9",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Custom api response and error handling",
+          "link": "https://youtu.be/S5EpsMjel-M?si=p-16B_AwkdXdLqJs",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "User and video model with hooks and JWT",
+          "link": "https://youtu.be/eWnZVUXMq8k?si=wBB8I2iNafcjbA9f",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "How to upload file in backend",
+          "link": "https://youtu.be/6KPXn2Ha0cM?si=8W329xx-_5dELlCy",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "HTTP crash course",
+          "link": "https://youtu.be/qgZiUvV41TI?si=wQgzrnEmTaWChWRy",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Complete guide for router and controller with debugging",
+          "link": "https://youtu.be/HqcGLJSORaA?si=uhcqurImKoS3jwoM",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Logic building and Register controller",
+          "link": "https://youtu.be/VKXnSwNm_lE?si=GTjKOmbTVMHKPRLw",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "How to use postman for backend",
+          "link": "https://youtu.be/_u-WgSN5ymU?si=5r0gRrq1YSxFInA9",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Access Refresh Token, Middleware and cookies in Backend",
+          "link": "https://youtu.be/7DVpag3cO0g?si=eCo86KfyndWMwfbI",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Access token and refresh token in Backend",
+          "link": "https://youtu.be/L2_gIrDxCes?si=5QLnZXGvu9x8uG43",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Writing update controllers for user",
+          "link": "https://youtu.be/9azRerL6CZc?si=jqZH7d0SZeiB8laU",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Understand the subscription Schema",
+          "link": "https://youtu.be/4_Ge2QEcT8k?si=XnfHT5yk5MM7ZSqR",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Learn Mongodb aggregation pipelines",
+          "link": "https://youtu.be/fDTf1mk-jQg?si=9xkyNKC7vZH1WNbr",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "How to write sub pipelines and routes",
+          "link": "https://youtu.be/qNnR7cuVliI?si=hE3LWuNFwTBQtQFy",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Summary of our Backend Series",
+          "link": "https://youtu.be/VUgl3i8DdW4?si=SWZluLhYmX2FvmQ0",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "MongoDB models for like playlist and tweet",
+          "link": "https://youtu.be/-5yWyE4AiVk?si=2kBSdVhDnhgoDI6J",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      },
+      {
+          "technology": "WEBDEV",
+          "title": "BackEnd",
+          "questionName": "Backend series ends here",
+          "link": "https://youtu.be/Uc3Iq41npyI?si=DFSYBS-aCmrLfsL-",
+          "notes": "Add your notes",
+          "completed": false,
+          "bookmarked": false
+      }
+  ]
+}
