@@ -1,6 +1,6 @@
 # 🚀 Roadmap Learning Tracker  
 
-A feature-rich roadmap-based learning platform to help students track their progress in **DSA and Web Development**.  
+A Feature-rich roadmap-based learning platform to help students track their progress in **DSA and Web Development**.  
 This project provides an interactive way to **bookmark questions, take notes, track completion, download notes as PDFs, and visualize progress** with a clean UI and **dark mode support**.  
 
 ---
@@ -44,13 +44,13 @@ Follow these steps to set up and run the project on your local machine.
 ### **1️⃣ Clone the Repository**  
 First, download the project files to your local system:  
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clonehttps://github.com/Jeevan-36/Tech-Road
+cd Tech-Road
 ```
 
 ### **2️⃣ Install Dependencies**
 ```sh
-Next, install the required packages using npm :
+Install the required packages using npm :
 npm install
 ```
 
@@ -66,18 +66,19 @@ Open your web browser and navigate to `http://localhost:3000` to access the appl
 ```
 ---
 
-## 🛠 Future Improvements  
-🔄 **Use Redux for State Management
+## 🛠 Future Improvements
+🔄 Use Redux for State Management
+\
 🚀 **Add authentication** for personalized tracking  
 📱 **Enhance mobile responsiveness**  
-🎯 **Expand roadmap options for more technologies  
-**
+🎯 Expand roadmap options for more technologies  
+
 ---
 ## 🤝 Acknowledgments  
 
 A huge thank you to **Love Babbar** & **Hitesh Choudhary** for their structured guidance in **DSA & Web Development**!  
 
-🔗 [Love Babbar’s YouTube](https://www.youtube.com/c/LoveBabbar)  
-🔗 [Hitesh Choudhary’s English Channel](https://www.youtube.com/c/HiteshChoudhary)  
-🔗 [Hitesh Choudhary’s Hindi Channel](https://www.youtube.com/c/HiteshChoudharyHindi)
+🔗 [Love Babbar’s YouTube](https://www.youtube.com/@LoveBabbar)  
+🔗 [Hitesh Choudhary’s English Channel](https://www.youtube.com/@HiteshCodeLab)  
+🔗 [Hitesh Choudhary’s Hindi Channel](https://www.youtube.com/@chaiaurcode)
 
