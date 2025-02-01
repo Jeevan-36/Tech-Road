@@ -15,6 +15,12 @@ This project provides an interactive way to **bookmark questions, take notes, tr
 ✅ **Dark & Light Mode** – Better accessibility & user experience  
 
 ---
+## 🖥 Technologies Used  
+
+- **React.js** – Front-end framework for building interactive UIs  
+- **Tailwind CSS** – Utility-first CSS framework for responsive design  
+- **Chart.js** – Data visualization library for progress graphs  
+- **react-pdf** – Library for generating and downloading PDF notes  
 
 ## 📸 Screenshots  
 
