@@ -44,7 +44,7 @@ Follow these steps to set up and run the project on your local machine.
 ### **1️⃣ Clone the Repository**  
 First, download the project files to your local system:  
 ```sh
-git clonehttps://github.com/Jeevan-36/Tech-Road
+git clone https://github.com/Jeevan-36/Tech-Road
 cd Tech-Road
 ```
 
