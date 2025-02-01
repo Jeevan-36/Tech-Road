@@ -1,8 +1,7 @@
-import React, { useRef } from "react";
+import React from "react";
 import triggerPDFDownload from "./triggerPDFDownload";
 
 const TopicHeader = ({ title, technology, count, handleNotesDownload }) => {
-  const downloadLinkRef = useRef(null);
   const totalQuestions = count.totalCount; 
   const progressPercentage = (count.completedCount / totalQuestions) * 100;
 

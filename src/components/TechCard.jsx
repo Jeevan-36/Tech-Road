@@ -27,7 +27,7 @@ const TechCard = () => {
       {techs.map((tech) => (
         <div
           key={tech.title}
-          className="flex flex-col items-center justify-center bg-gray-200 dark:bg-gray-800 w-full sm:w-full md:w-96 lg:w-80 p-6 shadow-lg rounded-2xl gap-4 m-5 transition-all ease-in-out hover:scale-105 hover:shadow-xl cursor-pointer text-md dark:text-white hover:shadow-teal-500/50 transform hover:scale-105"
+          className="flex flex-col items-center justify-center bg-gray-200 dark:bg-gray-800 w-full sm:w-full md:w-96 lg:w-80 p-6 shadow-lg rounded-2xl gap-4 m-5 transition-all ease-in-out hover:scale-105 hover:shadow-xl cursor-pointer text-md dark:text-white hover:shadow-teal-500/50"
           onClick={() => navigate(tech.path)}
         >
           {tech.path === "/dsa" ? (

@@ -9,7 +9,7 @@ const TopicCard = ({ topicData, countTopicCompletion, technology }) => {
 
   return (
     <div
-  className="flex flex-col items-center justify-center bg-gray-200 dark:bg-gray-900 shadow-lg rounded-2xl p-6 gap-4 transition-all ease-in-out hover:scale-105 hover:shadow-2xl cursor-pointer my-10 hover:shadow-teal-500/50 transform hover:scale-105"
+  className="flex flex-col items-center justify-center bg-gray-200 dark:bg-gray-900 shadow-lg rounded-2xl p-6 gap-4 transition-all ease-in-out hover:scale-105 hover:shadow-2xl cursor-pointer my-10 hover:shadow-teal-500/50 transform"
   key={topicData.name}
   onClick={() => {
     const path = `/${technology}/${topicData.name

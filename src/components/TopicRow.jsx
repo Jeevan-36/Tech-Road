@@ -21,7 +21,7 @@ const TopicRow = ({
         }
       `}
     >
-      {/* Checkbox */}
+      
       <input
         type="checkbox"
         name="topicDone"
@@ -32,7 +32,7 @@ const TopicRow = ({
         }}
       />
 
-      {/* Question Link */}
+     
       <a
         href={question.link}
         target="_blank"
@@ -41,14 +41,14 @@ const TopicRow = ({
         {question.questionName}
       </a>
 
-      {/* Action Icons */}
+     
       <div className="flex space-x-3 w-full sm:w-1/6">
-        {/* External Link */}
+       
         <a href={question.link} target="_blank">
           <FaExternalLinkAlt className="text-xl text-blue-600 hover:text-blue-800 transition-transform transform hover:scale-125 cursor-pointer dark:text-blue-400 dark:hover:text-blue-300" />
         </a>
 
-        {/* Bookmark */}
+       
         <FaBookmark
           className={`text-xl transition-transform transform hover:scale-125 cursor-pointer hover:drop-shadow-lg "text-yellow-500 dark:text-yellow-400"
                  "text-gray-500 dark:text-gray-300 hover:text-yellow-600 dark:hover:text-yellow-500"
@@ -58,7 +58,7 @@ const TopicRow = ({
           }}
         />
 
-        {/* Notes */}
+       
         <FaNoteSticky
           className="text-xl text-amber-700 hover:text-amber-900 transition-transform transform hover:scale-125 cursor-pointer hover:drop-shadow-lg dark:text-amber-400 dark:hover:text-amber-300"
           onClick={() => {

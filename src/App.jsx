@@ -5393,7 +5393,7 @@ const App = () => {
       return x;
     } else {
       const x = webdevQuestions[topic].filter((question) => {
-        return question.notes !== "Add your own notes";
+        return question.notes !== "Add your own notes" && question.notes!="Add your notes";
       });
       return x;
     }
